@@ -1,12 +1,13 @@
 # Cadastro de clientes. 
 
-Exercício para aprender mais sobre funções e banco de dados, O banco de dados ultilizado no código foi o SQLite3 
+Este projeto é um sistema básico de cadastro de clientes que utiliza Python e SQLite para armazenar informações. Ele implementa funcionalidades CRUD (Create, Read, Update, Delete) para gerenciar clientes. É ideal para aprender sobre bancos de dados SQLite, manipulação de dados em Python e organização de código em funções.
 
-O código recebe o nome do cliente o cpf, telefone e endereço. 
+Como executar o projeto:
 
-Você pode editar as informações do cliente, Pode exibir a lista dos clientes e Excluir o cliente. 
-
-para exibir o cliente utilizamos o ID gerado atravez do sqlite 3 
+1. Certifique-se de ter o Python instalado.
 
 
-Para executar o código deve-se chamar a função no if __name__ ou pode-se adicionar um input para que o usuário insira os valores, como nome , cpf, telefone e wdndery
+2. Execute o código no terminal.
+
+
+3. Utilize as funções disponíveis para cadastrar, listar, editar ou excluir clientes.
